@@ -57,6 +57,7 @@ class Chart extends StatelessWidget {
                 totalSpending == 0.0
                     ? 0.0
                     : (data['amount'] as double) / totalSpending,
+                key: ValueKey(UniqueKey),
               ),
             );
           }).toList(),
