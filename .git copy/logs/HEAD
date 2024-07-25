@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 f9eb42d52cab6262927e046d63a6a4d635f8a66a Raul Moretti <moretti.lopes@gmail.com> 1721893766 +0100	commit (initial): started
+f9eb42d52cab6262927e046d63a6a4d635f8a66a 786b020091b9932e0cf2b5031df73565f5ee8def Raul Moretti <moretti.lopes@gmail.com> 1721893846 +0100	checkout: moving from main to MealsApp
+786b020091b9932e0cf2b5031df73565f5ee8def f9eb42d52cab6262927e046d63a6a4d635f8a66a Raul Moretti <moretti.lopes@gmail.com> 1721894092 +0100	checkout: moving from MealsApp to shoppingList
+f9eb42d52cab6262927e046d63a6a4d635f8a66a f9eb42d52cab6262927e046d63a6a4d635f8a66a Raul Moretti <moretti.lopes@gmail.com> 1721894141 +0100	checkout: moving from shoppingList to main

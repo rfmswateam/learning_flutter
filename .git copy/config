@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "shoppingList"]
+	url = https://github.com/rfmswateam/learning_flutter.git
+	fetch = +refs/heads/*:refs/remotes/shoppingList/*
+[branch "MealsApp"]
+	remote = shoppingList
+	merge = refs/heads/MealsApp
